@@ -18,8 +18,8 @@
 			rel="stylesheet"
 		/>
 		<link rel="icon" type="image/x-icon" href="./assets/logomenor.png" />
-		<link rel="stylesheet" href="./css/main.css" />
-		<link rel="stylesheet" href="./assets/icons/style.css" />
+		<link rel="stylesheet" href="../css/main.css" />
+		<link rel="stylesheet" href="../assets/icons/style.css" />
 	</head>
 
 	<body>
